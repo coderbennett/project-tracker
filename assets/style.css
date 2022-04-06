@@ -1,0 +1,12 @@
+header {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: blue;
+}
+
+.col-sm {
+    background-color: aquamarine;
+    border: 2px solid black;
+}
